@@ -37,7 +37,8 @@ Getting and cleaning data
  2. _All columns containing the keyword mean or std where extracted_
  3. _The output of grep was saved into a final datafile_
  
- ##  Writing the finaltidy text data file ##
+ ##  Writing the final tidy text data file ##
  1. _We use the function write.csv to output comma delimited text file_
- 2. _The tidy data file is then uploaded for evaluation
+ 2. _The tidy data file is then uploaded for evaluation_
  3. _The above steps describe in full detail how the script work_
+  
