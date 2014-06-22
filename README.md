@@ -1,7 +1,6 @@
 gcd
 ===
 
-Getting and cleaning data 
 # How the script for the accelerometers from the Samsung Galaxy S works #
 
 ## General approach for the training dataset files ##
